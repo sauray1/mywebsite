@@ -1,15 +1,51 @@
+
 body{
-    font-family: Arial;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #f2f2f2;
+
+    background-image: url('"C:/Users/ASUS/Downloads/Backgroiund.jfif"');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 h1{
-    color: blue;
+    color: #0d2c6c;
+    margin-top: 30px;
+}
+
+nav{
+    margin: 20px;
 }
 
 nav a{
-    margin: 10px;
+    margin: 15px;
     text-decoration: none;
+    color: black;
     font-weight: bold;
+}
+
+.container{
+    background-color: rgba(255,255,255,0.85);
+
+    width: 70%;
+    margin: auto;
+    padding: 30px;
+
+    border-radius: 15px;
+
+    margin-top: 30px;
+}
+
+.logo{
+    width: 120px;
+}
+
+.profile{
+    width: 150px;
+    height: 150px;
+
+    border-radius: 50%;
 }
