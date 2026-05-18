@@ -5,7 +5,7 @@ body{
     font-family: Arial, sans-serif;
     text-align: center;
 
-    background-image: url('"C:/Users/ASUS/Downloads/Backgroiund.jfif"');
+    background-image: url("background.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
